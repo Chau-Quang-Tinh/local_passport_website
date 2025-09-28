@@ -1,7 +1,6 @@
-login: public/results/login.png
-logout: public/results/logout.png
-profile: public/results/profile.png
+![Login](public/results/login.png)
+![Logout](public/results/logout.png)
+![Profile](public/results/profile.png)
 register:
-
-- public/results/register.png
-- public/results/register_MgDB.png
+![Register](public/results/register.png)
+![Register](public/results/register_MgDB.png)
